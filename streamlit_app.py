@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-from apps import ce_app, access, sh_app, soil_app , ff_app, hb_app , fs_app
+from apps import ce_app, access, sh_app, soil_app , hb_app , fs_app
 
 access.ee_to_st()
 st.set_page_config(page_title="Streamlit Geospatial", layout="wide")
