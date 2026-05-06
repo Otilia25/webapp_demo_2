@@ -9,7 +9,6 @@ apps = [
     {"func": ce_app.app, "title": "C&E", "icon": ":seedling:"},
     {"func": sh_app.app, "title": "Small Holder", "icon": ":seedling:"},
     {"func": soil_app.app, "title": "Analysis", "icon": ":seedling:"},
-    {"func": ff_app.app, "title": "Foundation Farm", "icon": ":leaf:"},
     {"func": hb_app.app, "title": "Hub Definition", "icon": ":seedling:"},
     {"func": fs_app.app, "title": "FCA", "icon": ":seedling:"},
 ]
